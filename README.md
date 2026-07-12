@@ -293,7 +293,7 @@ Through this repository, I have gained practical experience in:
 
 # 👩‍💻 Author
 
-## **Thokala Charan**
+## **Peram Durga Shankar**
 
 💡 *Passionate about Data Engineering and continuously building practical projects using SQL, PySpark, Apache Spark, and Databricks.*
 
